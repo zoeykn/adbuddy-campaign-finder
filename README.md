@@ -18,3 +18,7 @@ Marketing professionals and scholars spend hours manually browsing ad archives t
 
 ### Live Demo
 https://ai-engineering-fh-zkn-project-mkt-finder.streamlit.app/
+
+Author
+Zoey Nguyen — MS Business Analytics Candidate
+Built as a capstone project for RAG and Context Engineering course, Spring 2026
