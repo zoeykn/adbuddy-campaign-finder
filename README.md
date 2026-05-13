@@ -1,7 +1,7 @@
 # AdBuddy — AI-Powered Ad Campaign Discovery Tool
 Search, explore, and analyze 700+ real advertising campaigns using hybrid search and an AI-powered chatbot.
 
-![AdBuddy Screenshot](assets/screenshot filter.png)
+![AdBuddy Screenshot](assets/screenshot_filter.png)
 
 ### Overview
 Marketing professionals and scholars spend hours manually browsing ad archives to find relevant campaign references from different sources. AdBuddy solves this by aggregating campaigns from multiple award databases, enriching them with AI-generated metadata, and enabling intelligent discovery through hybrid search and a conversational chatbot.
@@ -16,3 +16,5 @@ Marketing professionals and scholars spend hours manually browsing ad archives t
 ### Architecture and Pipeline
 ![Architecture](assets/architecture.png)
 
+### Live Demo
+https://ai-engineering-fh-zkn-project-mkt-finder.streamlit.app/
